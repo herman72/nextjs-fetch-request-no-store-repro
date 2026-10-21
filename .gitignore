@@ -1,0 +1,6 @@
+node_modules/
+.next/
+# Written by next dev itself.
+AGENTS.md
+# The text of the issue, for the person who posts it.
+ISSUE.md
